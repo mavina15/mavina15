@@ -15,24 +15,24 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
 Skills
 ------------------------------------
 
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" style="padding-right:10px;" height="36" alt="C++" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Git" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" style="padding-right:10px;" height="36" alt="JavaScript" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Python" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" style="padding-right:10px;" height="36" alt="rlang" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" style="padding-right:10px;" height="36" alt="HTML5" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" style="padding-right:10px;" height="36" alt="React" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Vue" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" style="padding-right:10px;" height="36" alt="CSS3" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" style="padding-right:10px;" height="36" alt="TailwindCSS" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Firebase" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" style="padding-right:5px;" height="36" alt="C++" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Git" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" style="padding-right:5px;" height="36" alt="JavaScript" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Python" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" style="padding-right:5px;" height="36" alt="rlang" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" style="padding-right:5px;" height="36" alt="HTML5" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" style="padding-right:5px;" height="36" alt="React" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Vue" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" style="padding-right:5px;" height="36" alt="CSS3" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" style="padding-right:5px;" height="36" alt="TailwindCSS" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Firebase" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />   
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" style="padding-right:10px;" height="36" alt="MacOS" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Linux" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" style="padding-right:10px;" height="36" alt="PyTorch" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" style="padding-right:10px;" height="36" alt="TensorFlow" />
-  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Figma" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" style="padding-right:5px;" height="36" alt="MacOS" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Linux" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" style="padding-right:5px;" height="36" alt="PyTorch" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Raspberry Pi" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" style="padding-right:5px;" height="36" alt="TensorFlow" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Figma" />
   <br />
   <br />
 
