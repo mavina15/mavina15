@@ -3,7 +3,6 @@ Hi 👋, my name is Mel Avina!
 
 Software Engineer and Data Scientist
 ------------------------------------
-
 I'm a passionate individual deeply immersed in the realms of software engineering and data science. 
 Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merging the precision of code with the curiosity of data exploration.
 
@@ -37,6 +36,5 @@ Skills
 
 Stats
 ------------------------------------
-
-<a href="http://www.github.com/mavina15"><img src="https://github-readme-stats.vercel.app/api?username=mavina15&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="mavina15's GitHub stats" /></a>
-<a href="https://github.com/mavina15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavina15&langs_count=10&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![mavina15's Stats](https://github-readme-stats.vercel.app/api?username=mavina15&theme=default&show_icons=true&hide_border=true&count_private=true)
+![mavina15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mavina15&theme=default&show_icons=true&hide_border=true&layout=compact)
