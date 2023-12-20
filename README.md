@@ -12,7 +12,8 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
 * ✉️  You can contact me at [melavinabeltran@gmail.com](mailto:melavinabeltran@gmail.com)
 * 🧠  I'm learning Backend Development.
 
-### Skills
+Skills
+------------------------------------
 
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" style="padding-right:10px;" height="36" alt="C++" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Git" />
@@ -32,14 +33,7 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" style="padding-right:10px;" height="36" alt="TensorFlow" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Figma" />
-
-
-### Socials
-
-  <a align="left" href="https://www.github.com/mavina15" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" style="padding-right:10px;" height="32" /> </picture> </a> 
-  <a align="left" href="https://www.linkedin.com/in/melavinabeltran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" style="padding-right:10px;" height="32" /> </picture> </a>
-
-### Badges
+  </br>
 
 <b>My GitHub Stats</b>
 
