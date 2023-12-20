@@ -14,7 +14,7 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
 
 Skills
 ------------------------------------
-<p align="center">
+<p align="justify">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" style="padding-right:5px;" height="36" alt="C++" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" style="padding-right:5px;" height="36" alt="JavaScript" />
