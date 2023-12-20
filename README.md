@@ -33,8 +33,11 @@ Skills
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" style="padding-right:10px;" height="36" alt="TensorFlow" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Figma" />
-  </br>
+  <br />
+  <br />
 
-<b>My GitHub Stats</b>
+
+Stats
+------------------------------------
 
 <a href="http://www.github.com/mavina15"><img src="https://github-readme-stats.vercel.app/api?username=mavina15&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="mavina15's GitHub stats" /></a>
