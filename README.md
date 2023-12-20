@@ -1,6 +1,3 @@
-Hi 👋, my name is Mel Avina!
-==========================
-
 Software Engineer and Data Scientist
 ------------------------------------
 I'm a passionate individual deeply immersed in the realms of software engineering and data science. 
