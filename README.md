@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Mel!
 #### Harmonizing Code and Data: Engineering Solutions and Unveiling Insights
 
-I am an aspiring contributor to innovative teams, eager to play a pivotal role in shaping future products. Armed with a blend of applied machine learning and robust engineering skills, I am well-equipped to tackle challenging roles. My readiness to analyze complex issues, leverage cutting-edge tools for model training, and translate requirements into actionable tasks sets me apart. I am also adept at building and maintaining large-scale data pipelines, eager to apply my skills in a dynamic environment.
+I am a recent graduate of UC Davis and am a passionate individual deeply immersed in the realms of software engineering and data science. 
+Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merging the precision of code with the curiosity of data exploration.
 
 Skills: REACT / JS / HTML / CSS / PYTHON / R / C++
 
-- 🔭 I’m currently working on my portfolio. 
-- 🌱 I’m currently learning react. 
-- 🤔 I’m looking for help with full stack development.  
-- 📫 How to reach me: melavinabeltran@gmail.com 
+- 🎮 I’m currently working on a game using vue js, tailwind css and vite. 
+- 🔙 I’m currently learning back-end development.  
+- 📫 Contact me here: melavinabeltran@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mavina15)  
