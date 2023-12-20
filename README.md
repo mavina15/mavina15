@@ -4,8 +4,8 @@ I'm a passionate individual deeply immersed in the realms of software engineerin
 Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merging the precision of code with the curiosity of data exploration.
 
 * 🌍  I'm based in Los Angeles, CA.
-* 🎲  I'm building a game using Vue JS, Tailwind CSS and Vite.
-* 🧠  I'm learning Backend Development.
+* 🎲  I'm currently building a game using Vue JS, Tailwind CSS and Vite.
+* 🧠  I'm currently learning Backend Development.
 * ✉️  You can contact me at [melavinabeltran@gmail.com](mailto:melavinabeltran@gmail.com)
 
 Skills
