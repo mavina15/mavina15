@@ -6,8 +6,8 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
 
 Skills: REACT / JS / HTML / CSS / PYTHON / R / C++
 
-- 🎮 I’m currently working on a game using vue js, tailwind css and vite. 
-- 🔙 I’m learning back-end development.  
+- 🎮 I’m currently working on a game using Vue JS, Tailwind CSS and Vite. 
+- 🔙 I’m learning Back-end Development.  
 - ✉️ You can email me here: melavinabeltran@gmail.com   
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mavina15&show_icons=true)  
