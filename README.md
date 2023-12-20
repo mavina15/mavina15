@@ -33,6 +33,7 @@ Skills
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Raspberry Pi" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" style="padding-right:5px;" height="36" alt="TensorFlow" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Figma" />
+  <br />
 
 Stats
 ------------------------------------
