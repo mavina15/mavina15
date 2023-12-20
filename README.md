@@ -34,7 +34,6 @@ Skills
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" style="padding-right:5px;" height="36" alt="TensorFlow" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" style="padding-right:5px;" height="36" alt="Figma" />
 </p>
-<br />
 
 Stats
 ------------------------------------
