@@ -24,7 +24,7 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Vue" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" style="padding-right:10px;" height="36" alt="CSS3" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" style="padding-right:10px;" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Firebase" />
+  <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Firebase" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />   
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" style="padding-right:10px;" height="36" alt="MacOS" />
   <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" style="padding-right:10px;" height="36" alt="Linux" />
