@@ -5,8 +5,8 @@ Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merg
 
 * 🌍  I'm based in Los Angeles, CA.
 * 🎲  I'm building a game using Vue JS, Tailwind CSS and Vite.
-* ✉️  You can contact me at [melavinabeltran@gmail.com](mailto:melavinabeltran@gmail.com)
 * 🧠  I'm learning Backend Development.
+* ✉️  You can contact me at [melavinabeltran@gmail.com](mailto:melavinabeltran@gmail.com)
 
 Skills
 ------------------------------------
