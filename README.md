@@ -39,3 +39,7 @@ Stats
 ------------------------------------
 
 <a href="http://www.github.com/mavina15"><img src="https://github-readme-stats.vercel.app/api?username=mavina15&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="mavina15's GitHub stats" /></a>
+
+<a href="http://www.github.com/mavina15"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mavina15&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/mavina15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavina15&langs_count=10&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
