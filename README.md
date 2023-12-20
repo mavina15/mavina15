@@ -1,4 +1,4 @@
-Hi 👋 My name is Mel Avina
+Hi 👋, my name is Mel Avina!
 ==========================
 
 Software Engineer and Data Scientist
