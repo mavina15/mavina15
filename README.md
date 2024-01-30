@@ -1,9 +1,9 @@
 Software Engineer and Data Scientist
 ------------------------------------
 I'm a passionate individual deeply immersed in the realms of software engineering and data science. 
-Based in Los Angeles, CA, I bring a unique blend of expertise to the table, merging the precision of code with the curiosity of data exploration.
+Based in Davis, CA, I bring a unique blend of expertise to the table, merging the precision of code with the curiosity of data exploration.
 
-* 🌍  I'm based in Los Angeles, CA.
+* 🌍  I'm based in Davis, CA.
 * 🎲  I'm currently building a game using Vue JS, Tailwind CSS and Vite.
 * 🧠  I'm currently learning Backend Development.
 * ✉️  You can contact me at [melavinabeltran@gmail.com](mailto:melavinabeltran@gmail.com)
