@@ -2,7 +2,7 @@
 
 **Data & Operations Analyst** · Applied Mathematics, UC Davis (B.S., Dec 2023) · Oakland, CA
 
-I build the trackers, dashboards, and reports that help teams make decisions, and I run programs on deadline from scheduling through the final report. I'm currently a 5th grade teacher at Making Waves Academy, where I also work on assessment data and compliance reporting.
+I build the trackers, dashboards, and reports that help teams make decisions, and I run programs on deadline from scheduling through the final report. I'm currently a 5th grade math and science teacher, where I also work on assessment data and compliance reporting.
 
 **Tools:** Google Sheets / Excel (FILTER, SORT, LET, IFERROR), Python (pandas, NumPy, scikit-learn), R (tidyverse, ggplot2), SQL, Google Apps Script
 
